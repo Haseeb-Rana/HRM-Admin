@@ -40,7 +40,7 @@ ActiveAdmin.setup do |config|
   # within a namespace:
   #
     config.namespace :admin do |admin|
-      admin.site_title = "Next HR | Admin"
+      admin.site_title = "HR Duty | Admin"
     end
   #
   # This will ONLY change the title for the admin section. Other
